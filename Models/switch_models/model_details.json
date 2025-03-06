@@ -1,1 +1,1 @@
-{"numerator": "x2", "denominator": "x2 + x1", "model_type": "te_stats_glm_logit", "file_path": "Models\\switch_models\\logit_model.pkl"}
+{"numerator": "treatment ~ age + x1 + x3", "denominator": "age + x1 + x3", "model_type": "te_stats_glm_logit", "file_path": "Models\\switch_models\\logit_model.pkl"}
