@@ -1,1 +1,1 @@
-{"numerator": "1 - censored ~ x2 + x1", "denominator": "x2 + x1", "model_type": "te_stats_glm_logit", "file_path": "Models\\censor_models\\logit_model.pkl"}
+{"numerator": "censored_inv ~ x2 + x1", "denominator": "x2 + x1", "model_type": "te_stats_glm_logit", "file_path": "Models\\censor_models\\logit_model.pkl"}
